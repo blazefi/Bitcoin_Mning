@@ -1,1 +1,1 @@
-# Bitcoin_Mning
+# Bitcoin_Mining
